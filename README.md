@@ -23,7 +23,7 @@ including **MERN E-Commerce**, **Task Manager**, and **E-Library systems**.
 
 ---
 
-# ✨ **Random Dev Quote**
+# ✨ ** Dev Quote**
 <p align="center">
   <img src="assets/dev-quote.png" 
        alt="Developer Quote"
